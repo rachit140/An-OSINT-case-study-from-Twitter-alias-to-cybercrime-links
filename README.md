@@ -38,7 +38,7 @@ This repository contains an open-source intelligence (OSINT) case study on the T
 - **Twitter and social media analysis**
 - **CyberChef an open-source cryptography tool, to decode the Base64 string.**
 - **Google Dorks Search**
-- **Using CyberChef Decoding the hexadecimal string **
+- **Using CyberChef Decoding the hexadecimal string** 
 - **WHOIS lookup using Cisco Talos Intelligence**
 
 ---
