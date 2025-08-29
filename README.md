@@ -1,5 +1,5 @@
 # An-OSINT-case-study-from-Twitter-alias-to-cybercrime-links
-An OSINT report describes an online persona, @sp1ritfyre. The persona has suspected links to an MSP breach and sales of credentials. Findings come from social media, forum posts, metadata along with open-source tools. The report shows the investigative work.
+This repository showcases my practical OSINT investigation reports, documenting real-world style case studies completed during training exercises. The reports highlight my ability to apply The Intelligence Cycle, leverage OSINT tools, and communicate findings in a professional intelligence-reporting format.
 
 # OSINT Investigation: @sp1ritfyre
 
